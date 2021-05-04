@@ -1,0 +1,273 @@
+<div class="maps" id="map">
+				<div class="tabindex">
+					<h1><?php echo $Maps;?></h1>
+					<div class="sticker gallery" id="picture">
+							<div id="slide">
+								<div class='images'>
+									<div class='image'>
+										<div class="cap"></div>
+										<div class='image-block'>
+											<h3>Кактусы в горшках</h3>
+											<div class='image-container'>
+												<img src='img/кактус.png' />
+											</div>
+											<div class="bummer">
+												<span><span class='icon eye'></span> 500</span>
+												<span><span class='icon like'></span> 12</span>
+											</div>
+										</div>
+									</div>
+									<div class='image'>
+										<div class="cap"></div>
+										<div class='image-block'>
+											<h3>Карп</h3>
+											<div class='image-container'>
+												<img src='img/карп.png' />
+											</div>
+											<div class="bummer">
+												<span><span class='icon eye'></span> 500</span>
+												<span><span class='icon like'></span> 12</span>
+											</div>
+										</div>
+									</div>
+									<div class='image'>
+										<div class="cap"></div>
+										<div class='image-block'>
+											<h3>Попугай</h3>
+											<div class='image-container'>
+												<img src='img/попугай.png' />
+											</div>
+											<div class="bummer">
+												<span><span class='icon eye'></span> 500</span>
+												<span><span class='icon like'></span> 12</span>
+											</div>
+										</div>
+									</div>
+									<div class='image'>
+										<div class="cap"></div>
+										<div class='image-block'>
+											<h3>Алмаз</h3>
+											<div class='image-container'>
+												<img src='img/алмаз.png' />
+											</div>
+											<div class="bummer">
+												<span><span class='icon eye'></span> 500</span>
+												<span><span class='icon like'></span> 12</span>
+											</div>
+										</div>
+									</div>
+									<div class='image'>
+										<div class="cap"></div>
+										<div class='image-block'>
+											<h3>Орхидея</h3>
+											<div class='image-container'>
+												<img src='img/орхидея.png' />
+											</div>
+											<div class="bummer">
+												<span><span class='icon eye'></span> 500</span>
+												<span><span class='icon like'></span> 12</span>
+											</div>
+										</div>
+									</div>
+									<div class='image'>
+										<div class="cap"></div>
+										<div class='image-block'>
+											<h3>Калла</h3>
+											<div class='image-container'>
+												<img src='img/калла.png' />
+											</div>
+											<div class="bummer">
+												<span><span class='icon eye'></span> 500</span>
+												<span><span class='icon like'></span> 12</span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>				
+					</div>
+				</div>
+
+			</div>
+			<div class="fans" id="fan">
+				<div class="tabindex">
+					<h1>Fan</h1>
+						<div class='page-content' id='gallery'>
+							<div class='gallery'>
+								<div class='sea'>
+									<div>
+										Marine theme
+									</div>
+									<div>
+										Name: <input id='nameNewGirl' />
+									</div>
+									<div>
+										Url: <input id='urlNewGirl' />
+									</div>
+									<div>
+										<input id='addNewBlock' type='button' value='Add'>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Sea ​​shell
+									</div>
+									<div class='image'>
+										<img src='img/ракушка1.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Sea horse
+									</div>
+									<div class='image'>
+										<img src='img/ракушка2.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Scallop
+									</div>
+									<div class='image'>
+										<img src='img/ракушка3.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Starfish
+									</div>
+									<div class='image'>
+										<img src='img/ракушка4.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Marine being
+									</div>
+									<div class='image'>
+										<img src='img/ракушка11.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Seaweed
+									</div>
+									<div class='image'>
+										<img src='img/ракушка10.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Shells
+									</div>
+									<div class='image'>
+										<img src='img/ракушка7.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Sea stones
+									</div>
+									<div class='image'>
+										<img src='img/ракушка8.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+								<div class='sea'>
+									<div class='header'>
+										Shell
+									</div>
+									<div class='image'>
+										<img src='img/ракушка9.png' />
+									</div>
+									<div class='button'>
+										<span class='icon like'></span>
+										<span class='icon dislike'></span>
+									</div>
+								</div>
+							
+							</div>
+						</div>
+			    </div>	
+			</div>	
+			
+			<div class="mazes" id="maze">
+				<div class="tabindex">
+					<h1>Maze</h1>
+					<div class='page-content'>
+						<div>
+							Test
+							Test
+						</div>
+						<div class="slider">
+							<div class="slider__wrapper">
+								<div class="slider__items">
+									<div class="slider__item">
+										<img src="img/ара.png" />
+									</div>
+									<div class="slider__item">
+										<img src="img/ракушки.png" />
+									</div>
+									<div class="slider__item">
+										<img src="img/сакура.png" />
+									</div>
+									<div class="slider__item">
+										<img src="img/долина.png" />
+									</div>
+									<div class="slider__item">
+										<img src="img/сакура.png" />
+									</div>
+									<div class="slider__item">
+										<img src="img/ара.png" />
+									</div>
+									<div class="slider__item">
+										<img src="img/ракушки.png" />
+									</div>
+								</div>
+							</div>
+							<a class="slider__control slider__control_prev" href="#" role="button"></a>
+							<a class="slider__control slider__control_next slider__control_show" href="#" role="button"></a>
+						</div>
+					</div>
+			    </div>	
+			</div>	
+			
+			<div class="games" id="game">
+				<div class="tabindex">
+					<h1>Game</h1>
+
+			    </div>	
+			</div>	
+		</div>	
+	
